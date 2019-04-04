@@ -30,25 +30,25 @@ import time
 
 # TODO: password as value of label field
 
-password1 = ("Enter character 10 from your Password:")
-password2 = ("Enter character 5 from your Password:")
-password3 = ("Enter character 8 from your Password:")
-
-
-def password_to_array(password):
-    password_name = ()
-    password_array = []
-
-    for letter in password:
-        password_array.append(letter)
-        print(password_array[17])
+# password1 = ("Enter character 10 from your Password:")
+# password2 = ("Enter character 5 from your Password:")
+# password3 = ("Enter character 8 from your Password:")
+#
+#
+# def password_to_array(password):
+#     password_name = ()
+#     password_array = []
+#
+#     for letter in password:
+#         password_array.append(letter)
+#         print(password_array[17])
 
 
 
 
 from selenium.webdriver.common.keys import Keys
 
-password_to_array(password1)
+# password_to_array(password1)
 
 # for i in range(len(password)):
 #     #     if password_array[17] == 0:
@@ -61,3 +61,13 @@ password_to_array(password1)
 # str(i) == password_array[16]:
 # if str(i) == 0:
 #     print(i)
+
+str = "Enter character 10 from your Password:"
+pw = []
+for s in str.split():
+    if s.isdigit() == True:
+        pw.append(s)
+print(pw)
+
+
+
