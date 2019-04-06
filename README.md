@@ -1,11 +1,11 @@
 #test_automation 
 
-Automated login, that requires inputing specific character from password and pin, ie.: 
+Automated login, that requires inputing specific character from password and pin, ie.: <br>
 
-Enter character 4 from your Password:
-Enter character 6 from your Password:
-Enter character 10 from your Password:
+Enter character 4 from your Password: <br>
+Enter character 6 from your Password: <br>
+Enter character 10 from your Password: <br>
 
-Enter character 1 from your PIN:
-Enter character 5 from your PIN:
-Enter character 6 from your PIN:
+Enter character 1 from your PIN: <br>
+Enter character 5 from your PIN: <br>
+Enter character 6 from your PIN: <br>
