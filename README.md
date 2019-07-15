@@ -9,3 +9,8 @@ Enter character 10 from your Password: <br>
 Enter character 1 from your PIN: <br>
 Enter character 5 from your PIN: <br>
 Enter character 6 from your PIN: <br>
+
+
+Web Scraping
+
+Taking screenshots
